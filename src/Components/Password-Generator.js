@@ -1,3 +1,4 @@
+import '../Stylsheet/Password-Generator.css'
 export default function PasseordGenerator() {
   return (
     <>
